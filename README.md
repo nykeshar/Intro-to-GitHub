@@ -1,4 +1,9 @@
 # Intro-to-GitHub
-something else
+## Markdown Practice
 
-it is such a rainy day - boo!
+**this is bold text**
+*this is italics text*
+
+[click here](https://www.markdownguide.org/cheat-sheet/)
+
+![City of Philadelphia logo](cityofphilly_logo.png)
