@@ -4,6 +4,6 @@
 **this is bold text**
 *this is italics text*
 
-[click here](https://www.markdownguide.org/cheat-sheet/)
+[click here to see the Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ![City of Philadelphia logo](cityofphilly_logo.png)
